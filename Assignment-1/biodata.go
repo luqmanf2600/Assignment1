@@ -20,55 +20,55 @@ func main() {
 	s2.name = "Ahmad Faris"
 	s2.address = "Kalimantan"
 	s2.profession = "Mahasiswa"
-	s2.reason = "tidak tahu"
+	s2.reason = "Mendalami pemahaman"
 
 	var s3 = student{}
 	s3.name = "Rakha Rizqillah Pratama Saputra"
 	s3.address = "Jakarta"
 	s3.profession = "Mahasiswa"
-	s3.reason = "tidak tahu"
+	s3.reason = "Ingin lebih mempelajari dan memahami lebih banyak bahasa golang"
 
 	var s4 = student{}
 	s4.name = "I Gede Diva Dwijayana"
 	s4.address = "Bali"
 	s4.profession = "Mahasiswa"
-	s4.reason = "tidak tahu"
+	s4.reason = "Tertarik mengikuti pemrograman golang"
 
 	var s5 = student{}
 	s5.name = "Muhammad Daffa Haryadi putra"
 	s5.address = "Aceh"
 	s5.profession = "Mahasiswa"
-	s5.reason = "tidak tahu"
+	s5.reason = "Ingin menjadi back-end programmer"
 
 	var s6 = student{}
 	s6.name = "Muhammad Yoga Irvandi"
 	s6.address = "Sulawesi Tengah"
 	s6.profession = "Mahasiswa"
-	s6.reason = "tidak tahu"
+	s6.reason = "Mencoba hal baru yang belum dipelajari"
 
 	var s7 = student{}
 	s7.name = "Wafianda Azhar"
 	s7.address = "Solo"
 	s7.profession = "Mahasiswa"
-	s7.reason = "tidak tahu"
+	s7.reason = "Mengikuti golang ini membuat saya semangat dalam mempelajari back-end"
 
 	var s8 = student{}
 	s8.name = "Muhammad Haiqal Malik"
 	s8.address = "Bogor"
 	s8.profession = "Mahasiswa"
-	s8.reason = "tidak tahu"
+	s8.reason = "Ingin menambah pengetahuan bahasa golang"
 
 	var s9 = student{}
 	s9.name = "Rubenhard Manat Hasigolan Lumbantobing"
 	s9.address = "Medan"
 	s9.profession = "Mahasiswa"
-	s9.reason = "tidak tahu"
+	s9.reason = "Suka menambah ilmu baru"
 
 	var s10 = student{}
 	s10.name = "Denada Ramschie"
 	s10.address = "Medan"
 	s10.profession = "Mahasiswa"
-	s10.reason = "Tertarik"
+	s10.reason = "Tertarik mengikuti bahasa pemrograman selain c"
 
 	var i int
 	fmt.Print("Pilih data 1-10 yang akan dicetak: ")
