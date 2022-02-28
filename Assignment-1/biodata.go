@@ -68,7 +68,7 @@ func main() {
 	s10.name = "Denada Ramschie"
 	s10.address = "Medan"
 	s10.profession = "Mahasiswa"
-	s10.reason = "tidak tahu"
+	s10.reason = "Tertarik"
 
 	var i int
 	fmt.Print("Pilih data 1-10 yang akan dicetak: ")
@@ -129,5 +129,3 @@ func main() {
 	}
 
 }
-
-// =========================================================================================
