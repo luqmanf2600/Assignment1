@@ -9,7 +9,7 @@ type student struct {
 	reason     string
 }
 
-func main() {
+func data() {
 	var s1 = student{}
 	s1.name = "Luqman Fauzi"
 	s1.address = "Tangerang"
@@ -127,5 +127,10 @@ func main() {
 	default:
 		fmt.Println("Input salah! Data tidak ada")
 	}
+}
 
+func main() {
+	data()
+	data()
+	data()
 }
